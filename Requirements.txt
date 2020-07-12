@@ -1,0 +1,9 @@
+REQUIREMENTS:-
+
+Tensorflow
+Keras
+Numpy
+OS
+Matplotlib
+Seaborn
+Pandas
